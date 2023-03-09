@@ -4,12 +4,10 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.HashMap;
 import java.util.Properties;
-
 import org.junit.Assume;
 
 import com.appium.utility.Constants;
 import com.appium.utility.Reusables;
-import com.cucumber.listener.Reporter;
 import com.utility.LogCapture;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;

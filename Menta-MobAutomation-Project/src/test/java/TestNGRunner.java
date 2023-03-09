@@ -11,7 +11,7 @@ public class TestNGRunner {
 			glue = { "com.cucumber.stepdefinition" },
 			strict = false,
 			dryRun = false,
-				tags = {"@WRU_Screen"},   
+				tags = {"@MasonsPortalLogin"},   
 					//AndroidMenta_Sanity , AchTT
 				//HealthCheck_DEV97
 				 	plugin = {
